@@ -24,7 +24,7 @@
 ---
 1. `rokuyou_icalendar.py` をテキストエディタで開き、下記変数を任意の値に設定(体裁は維持してください)
     - `start_day`
-    - `emd_day`
+    - `end_day`
     - `file_name`
 1. 任意のディレクトリでこのプログラムを実行( `py rokuyou_icalendar.py` など)
 1. 実行した際のディレクトリにファイルが生成されていることを確認( デフォルトは `upat_6Yo_cal.ics` )
@@ -32,8 +32,8 @@
 
 Screenshots(iOS)
 ---
-![sample1](https://github.com/upat/rokuyou_icalendar/images/sc1.png)
-![sample2](https://github.com/upat/rokuyou_icalendar/images/sc2.png)
+![sample1](https://github.com/upat/rokuyou_icalendar/blob/master/images/sc1.png)
+![sample2](https://github.com/upat/rokuyou_icalendar/blob/master/images/sc2.png)
 
 使用上の注意
 ---
